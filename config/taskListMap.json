@@ -1,0 +1,10 @@
+{
+	"prettifyJS": "../lib/prettify.js",
+	"noConsole": "../lib/noConsole.js",
+	"strictEquality": "../lib/strictEquality.js",
+	"curly": "../lib/curly.js",
+	"lineTooLong": "../lib/lineTooLong.js",
+	"generateAST": "../lib/generateAST.js",
+	"generateCode": "../lib/generateCode.js",
+	"traverseAST": "../lib/traverseAST.js"
+}
